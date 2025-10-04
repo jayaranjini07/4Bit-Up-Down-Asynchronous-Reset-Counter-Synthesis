@@ -73,7 +73,6 @@ used.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4656b58a-7580-487c-bb9b-90b969b2eb08" />
 
 #### Timing Report: 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47c1c9d9-b2ae-4793-a6c5-3a6cc25ec2a7" />
 
 #### Result: 
 
